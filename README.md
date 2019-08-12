@@ -32,20 +32,10 @@ Multiple Regression model for flight delay estimation
 https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp  
 https://www.flightradar24.com/commercial-services/data-services
 
-<a name="workflow"></a>
-
-## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
-
-<a name="organization"></a>
-
-## Organization
-How did you organize yourself? Did you use any tools?
-
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/kerimbasbug/Project-Week-5-Your-Own-Project)  
 [Slides](https://docs.google.com/presentation/d/1VYexRCLNtq7m7gxL49oQpB1Yp2MC21qzSu3rygx3YCU/edit?usp=sharing)  
