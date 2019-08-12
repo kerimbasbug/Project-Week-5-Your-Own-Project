@@ -21,7 +21,9 @@
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+What are the reasons of flight delays?  
+Which airline has the best on-time performance?  
+Multiple Regression model for flight delay estimation
 
 <a name="dataset"></a>
 
