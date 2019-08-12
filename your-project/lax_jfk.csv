@@ -1,0 +1,35 @@
+Summary Statistics Origin and Destination Report  
+Origin Airport: Los Angeles, CA: Los Angeles International (LAX)
+Destination: New York, NY: John F. Kennedy International (JFK)
+Time Period: Friday, January 1, 2016 to Tuesday, January 1, 2019
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted
+"ALL*","38137","13.48","19.26","-29.41","4.23","291.12","9.45","342","0.89","131","0.34"
+"AA","12598","10.54","21.43","-35.77","1.78","292.98","9.41","158","1.25","47","0.37"
+"AS","1406","9.67","21.42","-16.68","2.37","294.41","9.66","21","1.49","2","0.14"
+"B6","10031","13.61","18.08","-21.12","7.52","292.66","7.29","54","0.53","29","0.28"
+"DL","9378","17.87","19.43","-39.45","2.82","287.36","10.97","49","0.52","45","0.47"
+"VX","4724","13.37","15.01","-13.90","7.11","289.44","11.08","60","1.27","8","0.16"
+
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Percent Flights Late
+"ALL*","8119","62.44","23.64","-41.25","67.88","299.17","12.08","21.29"
+"AA","2568","56.95","27.66","-16.30","65.36","302.10","12.52","20.38"
+"AS","301","49.51","26.03","-106.23","55.78","302.72","11.69","21.41"
+"B6","2364","60.52","22.29","-29.25","68.80","301.28","9.44","23.57"
+"DL","1795","79.10","22.87","-71.30","76.10","293.11","14.24","19.14"
+"VX","1091","55.70","17.67","-58.61","61.67","296.70","13.31","23.09"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","38137","131","45.36","31.02","19.17","1.09","30.38","0.23","16.99"
+"AA","12598","47","66.46","33.13","17.97","0.34","28.48","0.32","18.23"
+"AS","1406","2","21.66","32.00","13.20","0.00","34.75","0.26","7.55"
+"B6","10031","29","38.30","24.65","14.62","0.21","37.43","0.22","16.29"
+"DL","9378","45","32.15","33.20","31.97","2.21","22.04","0.11","19.75"
+"VX","4724","8","31.12","27.15","12.46","3.22","32.13","0.22","13.62"
+
+
+* Average of all airlines that have direct flights from the origin airport to the destination airport.
+
+SOURCE: Bureau of Transportation Statistics

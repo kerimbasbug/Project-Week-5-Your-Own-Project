@@ -1,0 +1,26 @@
+Summary Statistics Origin and Destination Report  
+Origin Airport: New York, NY: John F. Kennedy International (JFK)
+Destination: Miami, FL: Miami International (MIA)
+Time Period: Friday, January 1, 2016 to Tuesday, January 1, 2019
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Total Number Cancelled,Percent Flights Cancelled,Total Number Diverted,Percent Flights Diverted
+"ALL*","11161","11.89","26.89","34.68","3.18","152.07","9.83","195","1.74","41","0.36"
+"AA","6853","10.62","25.09","34.16","4.47","152.56","11.87","134","1.95","20","0.29"
+"DL","4308","13.91","29.73","35.49","1.15","151.28","6.61","61","1.41","21","0.48"
+
+
+Carriers,Total Number,Average Departure Delay (minutes),Average Taxi-Out Time (minutes),Average Scheduled Departure to Take-off (minutes),Average Arrival Delay (minutes),Average Airborne Time (minutes),Average Taxi-In Time (minutes),Percent Flights Late
+"ALL*","2250","60.63","36.93","77.72","70.82","158.39","12.99","20.16"
+"AA","1415","53.23","34.10","80.21","66.39","159.31","16.00","20.65"
+"DL","835","73.16","41.74","73.52","78.34","156.83","7.90","19.38"
+
+
+Carriers,Total Flights,Diverted Flights Reaching Scheduled Destination,Diverted Flights,Cancelled Flights,Carrier,Weather,National Aviation System,Security,Late Aircraft Arrival
+"ALL*","11161","41","52.87","53.53","29.33","3.25","22.63","0.10","15.49"
+"AA","6853","20","73.50","40.19","29.40","2.90","20.66","0.17","13.23"
+"DL","4308","21","33.23","80.23","29.20","3.85","25.96","0.00","19.32"
+
+
+* Average of all airlines that have direct flights from the origin airport to the destination airport.
+
+SOURCE: Bureau of Transportation Statistics
