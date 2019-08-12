@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Flight Delay
+*[Kerim Basbug]*
 
-*[Your Cohort, Campus & Date]*
+*[Data 19, Barcelona]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,19 +16,21 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+In this project I tried to analyze the causes of US domestic flight delays, airline performances and developed a regression model for flight delay estimation.
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+What are the reasons of flight delays?  
+Which airline has the best on-time performance?  
+Multiple Regression model for flight delay estimation
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset? If so, did you use an API? Did you scrape a web? Provide links to the data if available.
-
-[Dataset]() 
+[Dataset]  
+https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp  
+https://www.flightradar24.com/commercial-services/data-services
 
 <a name="workflow"></a>
 
@@ -46,5 +48,4 @@ How did you organize yourself? Did you use any tools?
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://docs.google.com/presentation/d/1VYexRCLNtq7m7gxL49oQpB1Yp2MC21qzSu3rygx3YCU/edit?usp=sharing)  
