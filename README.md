@@ -46,5 +46,4 @@ How did you organize yourself? Did you use any tools?
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
 [Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://docs.google.com/presentation/d/1VYexRCLNtq7m7gxL49oQpB1Yp2MC21qzSu3rygx3YCU/edit?usp=sharing)  
