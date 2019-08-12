@@ -16,7 +16,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-
+In this project I tried to analyze the causes of US domestic flight delays, airline performances and developed a regression model for flight delay estimation.
 
 <a name="hypotheses-/-questions"></a>
 
