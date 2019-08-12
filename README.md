@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Flight Delay
+*[Kerim Basbug]*
 
-*[Your Cohort, Campus & Date]*
+*[Data 19, Barcelona]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,7 +16,7 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+
 
 <a name="hypotheses-/-questions"></a>
 
